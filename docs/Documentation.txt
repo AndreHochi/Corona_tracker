@@ -1,0 +1,4 @@
+Corona_tracker
+
+./data/raw - Data came from https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/,
+		their methodology is listed here https://usafacts.org/articles/detailed-methodology-covid-19-data/
